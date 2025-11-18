@@ -59,7 +59,7 @@ Mobile app for academic research paper sharing and collaboration.
 
 - 📧 **Email:** [abetretsion@gmail.com](mailto:abetretsion@gmail.com)
 - 📱 **Phone:** +251 918350867
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/betretsion-aklilu) *(create and add this)*
+- 💼 **LinkedIn:** [Betretsion Aklilu](https://linkedin.com/in/betretsion-aklilu)
 - 🏫 **University:** Addis Ababa University
 
 ---
